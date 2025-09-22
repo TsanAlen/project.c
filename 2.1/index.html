@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Всем привет</title>
+    <meta charset="'UTF-8">
+</head>
+
+<body>
+    <ui>
+        <li>Банан</li>
+        <li>Яблоко</li>
+        <li>Персик</li>
+        <li>Слива</li>
+        <li>Апельсин</li>
+    </ui>
+    <oi>
+        <li>Оикрыть прилложение</li>
+        <li>Зарегестрироваься</li>
+        <li>Пройти проверку на робота</li>
+        <li>Получить доступ</li>
+        <li>Наслаждатся</li>
+    </oi>
+    <table border="1">
+        <tr>
+            <th>Имя</th>
+            <th>Возраст</th>
+            <th>Город</th>
+        </tr>
+        <tr>
+            <td>Ален</td>
+            <td>14</td>
+            <td>Алматы</td>
+        </tr>
+        <tr>
+            <td>Дамир</td>
+            <td>15</td>
+            <td>Алматы</td>
+        </tr>
+        <tr>
+            <td>Альберт</td>
+            <td>13</td>
+            <td>Алматы</td>
+        </tr>
+    </table>
+</body>
+
+</html>
+<form action="/submit" method="post">
+    <fieldset>
+        <legend>ввод данных:</legend>
+        <label for="text">Name:</label>
+        <input type="text" id="text" name="text" required>
+        <label for="email">email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="password">password:</label>
+        <input type="password" id="password" name="password" required>
+        <label for="textarea">много текста:</label>
+        <textarea id="textarea" name="textarea"></textarea>
+    </fieldset>
+    <select>
+        <option value="">select your country</option>
+        <option value="ru">Russia</option>
+        <option value="usa">United states</option>
+        <option value="ca">Canada</option>
+    </select>
+    <button type="submit">Submit</button>
+    <bubtton typr="reset">Reset</bubtton>
+
+</form>
