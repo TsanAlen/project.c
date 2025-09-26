@@ -1,0 +1,20 @@
+p{
+    color:blue;
+    font-size:16px;
+}
+#header{
+background-color:red;
+text-align:center;
+}
+.container{
+    padding:20px;
+    border:1px solid black;
+}
+.title{
+    font-size:24px;
+    text-align:center;
+}
+.highlight{
+    color:red;
+    font-weight:bold;
+}
