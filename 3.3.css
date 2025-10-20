@@ -96,3 +96,48 @@ div{
     text-align: center;
     padding: 10px;
 }
+.button:hover{
+    background-color: #f53;
+}
+.input:focus{
+    border-color: #f53;
+}
+li:first-child{
+    background-color: brown;
+    font-style: italic;
+}
+li:last-child{
+    background-color: blue;
+    font-style: initial;
+}
+.container div:first-child{
+    background-color: rgb(0, 166, 255);
+}
+.container div:last-child{
+    background-color: #f53;
+}
+.hov:hover{
+    background-color: chartreuse;
+}
+.foc:focus{
+    background-color: coral;
+}
+.container1{
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+    margin-left: 15px;
+    width:100%;
+}
+.container1 p{
+    display: block;
+    margin:auto;
+    width:fit-content;
+}.container1 img{
+    display: block;
+    margin:auto;
+}.container1 a{
+    display: block;
+    margin:auto;
+    width:fit-content
+}
