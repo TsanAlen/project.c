@@ -1,0 +1,44 @@
+.container {
+    border: 10px solid black;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 15px;
+
+
+}
+
+.div {
+    position: static;
+}
+
+.dif {
+    position: relative;
+    top: 15px;
+    left: 20px;
+}
+
+.def {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.di {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.d {
+    position: sticky;
+    top:20px;
+    left:10px;
+    color:brown;
+    margin-top:10px;
+    margin-bottom: 50px;
+}
+
+.e {
+    height: 2000px;
+}
