@@ -1,0 +1,245 @@
+.big {
+    display: flex;
+    background-color: black;
+    width: 1300px;
+    height: 545px;
+    color: white;
+    border-radius: 32px;
+}
+
+.image {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.text-block {
+    width: 778px;
+    height: 465px;
+    margin-left: 53px;
+    margin-right: 40px;
+    margin-top: 40.44px;
+}
+
+.gear {
+    width: 73px;
+    height: 27px;
+    background-color: #191919;
+    border-radius: 6px;
+    margin-top: 7.56px;
+    text-align: center;
+    padding: 3px;
+}
+
+.episode {
+    width: 82px;
+    height: 27px;
+    margin-top: 48.44px;
+    color: #118DA8;
+}
+
+.should {
+    width: 690px;
+    height: 141px;
+    margin-top: 17.56px;
+    font-weight: 400px;
+    font-size: 64px;
+    line-height: 70.4px;
+    letter-spacing: 2.65px;
+}
+
+.is {
+    width: 747px;
+    height: 99px;
+    margin-top: 28px;
+    font-weight: 400px;
+    font-size: 22px;
+    line-height: 33px;
+    color: #FFFFFFB2;
+}
+
+.butt {
+    background-color: #118DA8;
+    width: 208px;
+    height: 51px;
+    font-size: 18px;
+    font-weight: 400px;
+    color: white;
+    line-height: 27px;
+    border-radius: 6px;
+}
+
+.small {
+    display: flex;
+    width: 290px;
+    height: 514px;
+    flex-direction: column;
+    background-color: #E1EDE6;
+}
+
+.image2 {
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.author {
+    font-weight: 500px;
+    font-size: 16px;
+    color: #86928B;
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 93px;
+    height: 19px;
+}
+
+.name {
+    width: 200px;
+    height: 28px;
+    font-size: 24px;
+    color: #2C2D35;
+    font-weight: 500px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.items {
+    width: 250px;
+    height: 19px;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #2C2D35;
+}
+
+.price {
+    width: 103px;
+    height: 23px;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: #598D66;
+}
+
+.butt2 {
+    width: 250px;
+    height: 50px;
+    color: #598D66;
+    border: 1px solid #598D66;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    background-color: transparent;
+}
+
+.food {
+    width: 380px;
+    height: 582px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text {
+    width: 380px;
+    height: 337px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #F2F6FA;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+
+.name2 {
+    width: 247px;
+    height: 35px;
+    font-weight: 700px;
+    font-size: 24px;
+    color: #2E363E;
+    margin-left: 44px;
+    margin-top: 50px;
+}
+
+.content {
+    width: 240px;
+    height: 48px;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #2E363E;
+    margin-top: 12px;
+    margin-left: 44px;
+}
+
+.price2 {
+    width: 108px;
+    height: 36px;
+    font-weight: 500px;
+    font-size: 24px;
+    color: #434B53;
+    margin-top: 24px;
+    margin-left: 44px;
+}
+
+.butt3 {
+    width: 163px;
+    height: 68px;
+    background-color: #FED84C;
+    border-radius: 8px;
+    margin-top: 14px;
+    margin-left: 44px;
+    border: none;
+}
+
+.dark-card {
+    width: 330px;
+    height: 400px;
+    background-color: #0C0B15;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.avatar {
+    margin-top: 21.7px;
+    margin-left: 27.21px;
+}
+
+.dots {
+    margin-left: 191.71px;
+    margin-top: 23px;
+}
+
+.about {
+    width: 96px;
+    height: 27px;
+    font-weight: 600px;
+    font-size: 22px;
+    margin-left: 26.5px;
+    margin-top: 18.3px;
+    color: #FFFFFF;
+}
+
+.images{
+    display:flex;
+}
+
+.name3{
+    color:#809FB8;
+    width:262px;
+    height:22px;
+    font-size: 18px;
+    font-weight: 600px;
+    margin-top:24.37px;
+    margin-left:26.5px;
+}
+
+.ttext{
+    font-weight: 600px;
+    font-size: 16px;
+    color:#809FB8;
+    width:260px;
+    height:147px;
+    margin-left:27.72px;
+    margin-top:26.63px;
+}
