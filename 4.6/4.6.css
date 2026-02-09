@@ -41,7 +41,7 @@
     width: 690px;
     height: 141px;
     margin-top: 17.56px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 64px;
     line-height: 70.4px;
     letter-spacing: 2.65px;
@@ -51,7 +51,7 @@
     width: 747px;
     height: 99px;
     margin-top: 28px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 22px;
     line-height: 33px;
     color: #FFFFFFB2;
@@ -62,7 +62,7 @@
     width: 208px;
     height: 51px;
     font-size: 18px;
-    font-weight: 400px;
+    font-weight: 400;
     color: white;
     line-height: 27px;
     border-radius: 6px;
@@ -82,7 +82,7 @@
 }
 
 .author {
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 16px;
     color: #86928B;
     margin-top: 15px;
@@ -96,7 +96,7 @@
     height: 28px;
     font-size: 24px;
     color: #2C2D35;
-    font-weight: 500px;
+    font-weight: 500;
     margin-top: 10px;
     margin-left: 20px;
 }
@@ -154,7 +154,7 @@
 .name2 {
     width: 247px;
     height: 35px;
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 24px;
     color: #2E363E;
     margin-left: 44px;
@@ -164,7 +164,7 @@
 .content {
     width: 240px;
     height: 48px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 16px;
     color: #2E363E;
     margin-top: 12px;
@@ -174,7 +174,7 @@
 .price2 {
     width: 108px;
     height: 36px;
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 24px;
     color: #434B53;
     margin-top: 24px;
@@ -213,33 +213,33 @@
 .about {
     width: 96px;
     height: 27px;
-    font-weight: 600px;
+    font-weight: 600;
     font-size: 22px;
     margin-left: 26.5px;
     margin-top: 18.3px;
     color: #FFFFFF;
 }
 
-.images{
-    display:flex;
+.images {
+    display: flex;
 }
 
-.name3{
-    color:#809FB8;
-    width:262px;
-    height:22px;
+.name3 {
+    color: #809FB8;
+    width: 262px;
+    height: 22px;
     font-size: 18px;
-    font-weight: 600px;
-    margin-top:24.37px;
-    margin-left:26.5px;
+    font-weight: 600;
+    margin-top: 24.37px;
+    margin-left: 26.5px;
 }
 
-.ttext{
-    font-weight: 600px;
+.ttext {
+    font-weight: 600;
     font-size: 16px;
-    color:#809FB8;
-    width:260px;
-    height:147px;
-    margin-left:27.72px;
-    margin-top:26.63px;
+    color: #809FB8;
+    width: 260px;
+    height: 147px;
+    margin-left: 27.72px;
+    margin-top: 26.63px;
 }
