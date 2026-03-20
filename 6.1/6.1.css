@@ -1,0 +1,29 @@
+.div1 {
+    text-shadow: 5px 5px 5px red;
+}
+
+.div2 {
+    box-shadow: 10px 10px 5px blue;
+}
+
+.div3 {
+    box-shadow: 5px 10px 5px yellow;
+}
+
+.h2 {
+    text-shadow: 2px 2px 10px black;
+}
+
+.block {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right, red, yellow, green);
+    margin-top: 20px;
+}
+
+.block2 {
+    width: 150px;
+    height: 150px;
+    background: radial-gradient(circle, red, yellow, green);
+    margin-top: 20px;
+}
