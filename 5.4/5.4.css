@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 /*это способ подключения шрифтов через css*/
 body {
     font-family: "Bitcount Grid Double Ink", system-ui, Arial, Helvetica, sans-serif;
@@ -17,4 +16,17 @@ body {
         "XPN2" 0,
         "YPN1" 0,
         "YPN2" 0;
+        /*задаем значения шрифту*/
+}
+
+p {
+    font-family: "Bitcount Grid Double Ink", system-ui, Arial, Helvetica, sans-serif;
+    font-weight:400;
+    font-size:24px;
+}
+
+h1 {
+    font-family: "Bitcount Grid Double Ink", system-ui, Arial, Helvetica, sans-serif;
+    font-weight:600;
+    font-size:35px;
 }

@@ -1,9 +1,9 @@
 .div1 {
-    text-shadow: 5px 5px 5px red;
+    text-shadow: 5px 5px 5px red;/*делает текст обЬемным и более заметным*/
 }
 
 .div2 {
-    box-shadow: 10px 10px 5px blue;
+    box-shadow: 10px 10px 5px blue;/*используется для кнопок и карточек*/
 }
 
 .div3 {
@@ -17,13 +17,13 @@
 .block {
     width: 100px;
     height: 100px;
-    background: linear-gradient(to right, red, yellow, green);
+    background: linear-gradient(to right, red, yellow, green);/*цвет плавно меняется в заданном направлении*/
     margin-top: 20px;
 }
 
 .block2 {
     width: 150px;
     height: 150px;
-    background: radial-gradient(circle, red, yellow, green);
+    background: radial-gradient(circle, red, yellow, green);/*цвет меняется от центра или к центру как круг*/
     margin-top: 20px;
 }
