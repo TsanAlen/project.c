@@ -1,0 +1,66 @@
+.div3 {
+    animation: div3 3s ease;
+}
+
+@keyframes div3 {
+    from {
+        transform: translatex(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translatex(0);
+        opacity: 1;
+    }
+}
+
+.div1 {
+    animation: div1 3s ease;
+}
+
+@keyframes div1 {
+    from {
+        transform: translatex(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translatex(0);
+        opacity: 1;
+
+    }
+}
+
+.div2 {
+    animation: div2 3s ease;
+}
+
+@keyframes div2 {
+    from {
+        transform: translatex(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translatex(0);
+        opacity: 1;
+
+    }
+}
+
+.div4 {
+    animation: div4 3s ease;
+}
+
+@keyframes div4 {
+    from {
+        transform: translatex(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translatex(0);
+        opacity: 1;
+
+    }
+}
