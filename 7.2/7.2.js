@@ -27,8 +27,8 @@ console.log(String(null));
 console.log(Number(null));
 
 let value=100;
-valude="Строка";
-comsole.log(value);
+value="Строка";
+console.log(value);
 // переменная может менят тип данных
 
 let Name=promt("Введите ваше имя");
